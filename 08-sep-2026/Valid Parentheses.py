@@ -24,4 +24,4 @@ def isValid(s):
             stack.pop()
 
     return len(stack) == 0
-print(isValid("{]"))
+print(isValid("{()"))
