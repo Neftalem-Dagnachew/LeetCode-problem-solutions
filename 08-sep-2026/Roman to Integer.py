@@ -21,5 +21,5 @@ def romanToInt(s):
 
     return res
 
-print(romanToInt("XII"))
+print(romanToInt("VI"))
     
